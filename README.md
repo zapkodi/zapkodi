@@ -1,0 +1,2 @@
+# zapkodi
+kodi build
